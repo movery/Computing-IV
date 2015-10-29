@@ -1,0 +1,8 @@
+Michael Overy
+2/17/2015
+Fully Functional    
+---------------------------
+
+Notes:
+
+PhotoMagicDelux was completed by porting over code from Computer Architecture that allows me to pick apart characters and look at the individual bits. By doing this I was able to look at the last 6 ASCII bits and use those as the binary seed string.
